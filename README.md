@@ -1,3 +1,4 @@
 # profiler.py
-```bash
-git clone 
+```python3
+python3 profiler.py
+
