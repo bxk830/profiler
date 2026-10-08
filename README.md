@@ -1,4 +1,4 @@
 # profiler.py
-````python
+```python
 python3 profiler.py
 
